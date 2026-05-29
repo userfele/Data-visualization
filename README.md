@@ -1,0 +1,1 @@
+I built several data charts for real-world data using the XChart Java library, including data for the population of the world, the unemployment rate in the United States, and the number of cases of COVID-19 across the world.
